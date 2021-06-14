@@ -1,0 +1,76 @@
+.myDivStart{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.myBtnAdd{
+    height: 25px;
+    width: 75px;
+    margin-left: 5px;
+}
+
+.myInputTache{
+    height: 18px;
+    width: 300px;
+}
+
+.myh2Title{
+    text-align: center;
+}
+
+.myDivBtn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;    
+}
+
+.myBtnState{
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    border: none;
+}
+
+.myDivTasks{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.myinputTaskName{
+    margin-right: 30px;  
+    height: 25px;
+    width: 205px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color:tomato;
+    color: white;
+}
+
+.mybtnEditTaskState{
+    background-color: yellow;
+    height: 30px;
+    width: 85px;
+    margin-right: 5px;
+    border: none;
+    
+}
+
+.mybtnEditTaskName{
+    background-color: lawngreen;
+    height: 30px;
+    width: 85px;
+    margin-right: 5px;
+    border: none;
+
+}
+
+.mybtnDelTask{
+    background-color: goldenrod;
+    height: 30px;
+    width: 85px;
+    border: none;
+}
